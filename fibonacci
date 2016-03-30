@@ -14,3 +14,11 @@ public class Jurnal1 {
         c = input.nextInt ();
         for(int i=1; i<=c; i++){            
             a=b;
+            b=hasil;
+            System.out.print(hasil+" ");
+            hasil=a+b;
+         }
+    }
+}
+
+            
